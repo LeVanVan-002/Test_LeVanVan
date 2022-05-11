@@ -1,0 +1,31 @@
+/* san pham */
+
+.thumbnail {
+    overflow: -moz-hidden-unscrollable;
+    margin: auto;
+}
+
+.thumbnail .card {
+    transition-duration: 0.3s;
+}
+
+.thumbnail .card:hover {
+    transform: scale(1.2);
+}
+
+
+/* logo */
+
+.logo {
+    width: 500px;
+    overflow: -moz-hidden-unscrollable;
+    border: 1px solid #e5e5e5;
+}
+
+.logo img {
+    transition-duration: 0.3s;
+}
+
+.logo img:hover {
+    transform: scale(1.2);
+}
